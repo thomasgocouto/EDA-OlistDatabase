@@ -1,20 +1,20 @@
-# Desafios Olist Database
+## Desafios Olist Database
 
 Nesses desafios propostos em aula à turma de **Data Science** da [Awari](https://awari.com.br/curso-data-science/), iremos realizar uma breve **EDA** afim de desenvolver habilidade em **SQL** através da resolução de exercícios de diferentes níveis de dificuldade.
 
 
 ## Os Dados
-**Olist Database**
+### Olist Database
 
-Os dados utilizados para resolução dos desafios estão dispostos na base de dados da [Olist](https://olist.com/pt-br), a maior loja de departamentos dentro dos marketplaces brasileiros. 
+Os dados utilizados para resolução dos desafios estão dispostos na base de dados da [Olist](https://olist.com/pt-br), a maior loja de departamentos dentro dos marketplaces brasileiros. Sendo uma empresa referência dentro do mercado de **e-commerce**.
 
-**Data Schema**
+### Data Schema
 
 Este banco está estruturado conforme os relacionamentos abaixo. 
 
 
 ![image](https://user-images.githubusercontent.com/56882578/141878593-5bbaac7f-ea77-495c-8bdc-f43b21447809.png)
-A database e seu detalhamento pode ser verificado [aqui](https://www.kaggle.com/olistbr/brazilian-ecommerce).
+A database e seu detalhamento podem ser verificados no [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
 
 ## Ferramenta
@@ -22,8 +22,6 @@ A database e seu detalhamento pode ser verificado [aqui](https://www.kaggle.com/
 A **DBMS** utilizada para construção das queries foi o [Big Query](https://console.cloud.google.com/bigquery).
 
 ## Desafios
-
-Cada desafio possui exercícios de diferentes níveis de dificuldade em SQL. Eles foram propostos para desenvolvimento e pratica à turma de Data Science da Awari Scholl. Abaixo a lista numerada conforme os arquivos disponibilizados.
 
 ### Desafio 1 
 
