@@ -25,7 +25,7 @@ A **DBMS** utilizada para construção das queries foi o [Big Query](https://con
 
 ### Desafio 1 
 
-**Exercício 1:** Selecione os dados da tabela de pagamentos onde só apareçam os tipos de pagamento “VOUCHER” e “BOLETO”. [Query](https://github.com/andressacastrod/AwariSQLChallenges/blob/main/Desafio1/Exerc%C3%ADcio_1.sql)
+**Exercício 1:** Selecione os dados da tabela de pagamentos onde só apareçam os tipos de pagamento “VOUCHER” e “BOLETO”. [Query](https://github.com/thomasgocouto/EDA-OlistDatabase/blob/main/Desafio1/Exerc%C3%ADcio1.sql)
 
 **Exercício 2:** Retorne os campos da tabela de produtos e calcule o volume de cada produto em um novo campo. [Query](https://github.com/andressacastrod/AwariSQLChallenges/blob/main/Desafio1/Exerc%C3%ADcio_2.sql)
 
