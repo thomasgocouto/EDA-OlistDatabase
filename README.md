@@ -47,7 +47,7 @@ A **DBMS** utilizada para construção das queries foi o [Big Query](https://con
 
 **Exercício 1:** Crie uma tabela analítica de todos os itens que foram vendidos, mostrando somente pedidos interestaduais. Queremos saber quantos dias os fornecedores demoram para postar o produto, se o produto chegou ou não no prazo. [Query](https://github.com/thomasgocouto/EDA-OlistDatabase/blob/main/Desafio3/Exerc%C3%ADcio1.sql)
 
-**Exercício 2:** Retorne todos os pagamentos do cliente, com suas datas de aprovação, valor da compra e o valor total que o cliente já gastou em todas as suas compras, mostrando somente os clientes onde o valor da compra é diferente do valor total já gasto. [Query](https://github.com/athomasgocouto/EDA-OlistDatabase/blob/main/Desafio3/Exerc%C3%ADcio2.sql)
+**Exercício 2:** Retorne todos os pagamentos do cliente, com suas datas de aprovação, valor da compra e o valor total que o cliente já gastou em todas as suas compras, mostrando somente os clientes onde o valor da compra é diferente do valor total já gasto. [Query](https://github.com/thomasgocouto/EDA-OlistDatabase/blob/main/Desafio3/Exerc%C3%ADcio2.sql)
 
 **Exercício 3:** Retorne as categorias válidas, suas somas totais dos valores de vendas, um ranqueamento de maior valor para menor valor junto com o somatório acumulado dos valores pela mesma regra do ranqueamento. [Query](https://github.com/thomasgocouto/EDA-OlistDatabase/blob/main/Desafio3/Exerc%C3%ADcio3.sql)
 
