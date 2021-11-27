@@ -1,3 +1,8 @@
+/*Queremos dar um cupom de 10% do valor da última compra do cliente. 
+Porém os clientes elegíveis a este cupom devem ter feito uma compra anterior a última 
+(a partir da data de aprovação do pedido) que tenha sido maior ou igual o valor da última compra. 
+Crie uma querie que retorne os valores dos cupons para cada um dos clientes elegíveis.
+*/
 SELECT
       *
       ,
